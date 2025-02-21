@@ -47,3 +47,4 @@ Chatbot: I am a chatbot, created to assist you.
 You: quit
 Chatbot: Goodbye!
 ```
+![Image](https://github.com/user-attachments/assets/16c47195-200b-4ab4-81fd-5c7fd617e00d)
